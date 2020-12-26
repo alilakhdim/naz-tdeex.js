@@ -1,0 +1,2 @@
+# naz-tdeex.js
+activation
